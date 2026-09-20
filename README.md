@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/ali-muhammad-17625a335"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/alimuhammadpanhwar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:am6470224@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ali-muhammad-portfolio-three.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=Ali18-code&style=for-the-badge&color=3B82F6" alt="Profile Views" />
@@ -119,7 +119,7 @@ class AliMuhammad:
 I'm always open to collaborating on **AI/ML projects** or having a chat about tech.
 Feel free to reach out — let's build something great together!
 
-<a href="https://linkedin.com/in/ali-muhammad-17625a335"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/alimuhammadpanhwar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:am6470224@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://ali-muhammad-portfolio-three.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
