@@ -1,7 +1,7 @@
 # Ali Muhammad
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif" alt="Banner" width="100%" />
+  <img src="./banner.gif" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
